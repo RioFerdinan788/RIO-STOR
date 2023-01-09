@@ -1,0 +1,2 @@
+# RIO-STOR
+Menu .webp
